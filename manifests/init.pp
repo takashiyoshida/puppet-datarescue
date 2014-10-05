@@ -1,6 +1,6 @@
 # This is a placeholder class.
 class datarescue (
-  $version = '3.2.3'
+  $version = '4.0.1'
 ) {
   package { 'DataRescue':
     ensure   => installed,
